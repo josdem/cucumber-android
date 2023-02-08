@@ -1,4 +1,4 @@
-package com.example.cucumberandroid;
+package com.josdem.cucumber.android;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

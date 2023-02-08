@@ -1,13 +1,13 @@
-package com.example.cucumberandroid;
+package com.josdem.cucumber.android;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class CucumberAndroidApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(CucumberAndroidApplication.class, args);
 	}
 
 }
